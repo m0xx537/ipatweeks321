@@ -1,0 +1,63 @@
+{
+  "name": "Apps Repo",
+  "identifier": "site.ipatweaks123.repo",
+  "iconURL": "https://ipatweaks123.site/repo/icon.png",
+  "apps": [
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
+      "localizedDescription": "Patched Spotify build.",
+      "versions": [
+        {
+          "version": "9.0.96",
+          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/EeveeSpotify-9.0.96-patched.ipa",
+          "localizedDescription": "Current version."
+        }
+      ]
+    },
+    {
+      "name": "Instagram Theta",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Meta",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
+      "localizedDescription": "Instagram v407.0.0 with Theta tweaks.",
+      "versions": [
+        {
+          "version": "407.0.0",
+          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/Instagram%20v407.0.0%20Theta%20.ipa",
+          "localizedDescription": "Current version."
+        }
+      ]
+    },
+    {
+      "name": "YouTube YTPlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Google",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
+      "localizedDescription": "YouTube v20.44.2 with YTPlus v5.2b4.",
+      "versions": [
+        {
+          "version": "20.44.2",
+          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/YouTube%20v20.44.2%20YTPlus%20v5.2b4%5Btg%40glesign%5D.ipa",
+          "localizedDescription": "Current version."
+        }
+      ]
+    },
+    {
+      "name": "SoundCloud NoAds",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "SoundCloud",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
+      "localizedDescription": "SoundCloud v8.40.0 with no ads.",
+      "versions": [
+        {
+          "version": "8.40.0",
+          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/SoundCloud%20v8.40.0%20NoAds.ipa",
+          "localizedDescription": "Current version."
+        }
+      ]
+    }
+  ]
+}
