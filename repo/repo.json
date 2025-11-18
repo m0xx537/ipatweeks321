@@ -11,11 +11,10 @@
       "versions": [
         {
           "version": "9.0.96",
-          "downloadURL": "itms-services://?action=download-manifest&url=https://ipatweaks123.site/repo/EeveeSpotify-9.0.96.plist",
+          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/EeveeSpotify-9.0.96-patched.ipa",
           "localizedDescription": "Current version."
         }
       ]
     }
   ]
 }
-
