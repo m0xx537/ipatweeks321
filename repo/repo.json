@@ -1,13 +1,14 @@
 {
   "name": "Apps Repo",
   "identifier": "site.ipatweaks123.repo",
+  "iconURL": "https://ipatweaks123.site/repo/icon.png",
   "apps": [
     {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
-      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "localizedDescription": "Patched Spotify build.",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
           "version": "9.0.96",
@@ -20,8 +21,8 @@
       "name": "Instagram Theta",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Meta",
-      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "localizedDescription": "Instagram v407.0.0 with Theta tweaks.",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
           "version": "407.0.0",
@@ -34,8 +35,8 @@
       "name": "YouTube YTPlus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "localizedDescription": "YouTube v20.44.2 with YTPlus v5.2b4.",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
           "version": "20.44.2",
@@ -48,8 +49,8 @@
       "name": "SoundCloud NoAds",
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud",
-      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "localizedDescription": "SoundCloud v8.40.0 with no ads.",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
           "version": "8.40.0",
@@ -58,5 +59,7 @@
         }
       ]
     }
-  ]
+  ],
+  "news": [],
+  "userInfo": {}
 }
