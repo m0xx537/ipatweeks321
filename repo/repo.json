@@ -20,6 +20,7 @@
       "name": "Instagram Theta",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Meta",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "localizedDescription": "Instagram v407.0.0 with Theta tweaks.",
       "versions": [
         {
@@ -33,6 +34,7 @@
       "name": "YouTube YTPlus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "localizedDescription": "YouTube v20.44.2 with YTPlus v5.2b4.",
       "versions": [
         {
@@ -46,6 +48,7 @@
       "name": "SoundCloud NoAds",
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "localizedDescription": "SoundCloud v8.40.0 with no ads.",
       "versions": [
         {
