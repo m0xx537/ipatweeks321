@@ -1,1 +1,21 @@
+{
+  "name": "ipatweaks123 Repo",
+  "identifier": "site.ipatweaks123.repo",
+  "apps": [
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Unknown",
+      "iconURL": "https://ipatweaks123.site/repo/icon.png",
+      "localizedDescription": "Patched Spotify build.",
+      "versions": [
+        {
+          "version": "9.0.96",
+          "downloadURL": "itms-services://?action=download-manifest&url=https://ipatweaks123.site/repo/EeveeSpotify-9.0.96.plist",
+          "localizedDescription": "Current version."
+        }
+      ]
+    }
+  ]
+}
 
