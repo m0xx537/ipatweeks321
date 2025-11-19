@@ -35,12 +35,12 @@
       "name": "YouTube YTPlus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "localizedDescription": "YouTube v20.44.2 with YTPlus v5.2b4.",
+      "localizedDescription": "YouTube v19.34.2 with YTPlus v5.2b4.",
       "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
-          "version": "20.44.2",
-          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/YouTube%20v20.44.2%20YTPlus%20v5.2b4%5Btg%40glesign%5D.ipa",
+          "version": "19.34.2",
+          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/z8jg5n.ipa",
           "localizedDescription": "Current version."
         }
       ]
