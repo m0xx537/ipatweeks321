@@ -1,7 +1,7 @@
 {
   "name": "Apps Repo",
   "identifier": "site.ipatweaks123.repo",
-  "iconURL": "https://ipatweaks123.site/repo/icon1.png",
+  "iconURL": "https://ipatweaks123.site/repo/icon.png",
   "apps": [
     {
       "name": "EeveeSpotify",
