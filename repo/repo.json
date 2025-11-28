@@ -4,10 +4,10 @@
   "iconURL": "https://ipatweaks123.site/repo/icon.png",
   "apps": [
     {
-      "name": "EeveeSpotify",
+      "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
-      "localizedDescription": "Spotify tweat.",
+      "localizedDescription": "Spotify tweak.",
       "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
@@ -21,7 +21,7 @@
       "name": "Instagram Theta",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Meta",
-      "localizedDescription": "Instagram v407.0.0 with Theta tweaks.",
+      "localizedDescription": "Instagram with Theta tweaks.",
       "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
@@ -32,10 +32,10 @@
       ]
     },
     {
-      "name": "YouTube YTPlus",
+      "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "localizedDescription": "YouTube v19.34.2 with YTPlus v5.2b4.",
+      "localizedDescription": "YouTube with YTPlus tweak.",
       "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "name": "TikTok BH",
+      "name": "BH TikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok",
       "localizedDescription": "Free tiktok tweak.",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "name": "TikTok RX",
+      "name": "RX TikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok",
       "localizedDescription": "Paid tiktok tweak.",
