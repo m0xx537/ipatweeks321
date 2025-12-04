@@ -25,8 +25,8 @@
       "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
-          "version": "408.0.0",
-          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/%5BTG%40igbeta_ipa%5D_408.0.0_TH.ipa",
+          "version": "408.1.0",
+          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/%5BTG%40igbeta_ipa%5D_408.1.0_TH.ipa",
           "localizedDescription": "Current version."
         }
       ]
@@ -49,12 +49,12 @@
       "name": "SoundCloud",
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud",
-      "localizedDescription": "SoundCloud v8.42.0 with no ads.",
+      "localizedDescription": "SoundCloud v8.42.1 with no ads.",
       "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
-          "version": "8.42.0",
-          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/SoundCloud%208.42.0%20NoAds.ipa",
+          "version": "8.42.1",
+          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/SoundCloud%208.42.1%20NoAds.ipa",
           "localizedDescription": "Current version."
         }
       ]
@@ -81,8 +81,8 @@
       "iconURL": "https://ipatweaks123.site/repo/icon.png",
       "versions": [
         {
-          "version": "42.7.0",
-          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/RXTiktok-v1.5.4_42.7.0.ipa",
+          "version": "42.8.0",
+          "downloadURL": "https://pub-2ff0d6fb24884d008970e2b8bea35a34.r2.dev/835599320-42.8.0-decrypted_%40iosdecrypted_injected.ipa",
           "localizedDescription": "1.5.4."
         }
       ]
